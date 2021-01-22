@@ -4,8 +4,8 @@
    <div>
   <b-jumbotron header="The game of BlackJack" lead="">
       <img src="../assets/blackjack.jpg" alt="">
-   
     <b-button size="lg" variant="success" href="#/game">Let's play</b-button>
+    
   </b-jumbotron>
 </div>
    
